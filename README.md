@@ -1,6 +1,8 @@
 # EvoCoexistenceFluctuations
 Code files accompanying the paper "Evolutionary coexistence in a fluctuating environment by specialization on resource level"
 
+https://onlinelibrary.wiley.com/doi/full/10.1111/jeb.14158
+
 ### Notebook for trade-off figures:
 ***all_tradeoffs_JEB_Final.ipynb***
 
